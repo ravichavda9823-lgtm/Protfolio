@@ -26,7 +26,7 @@ function Home() {
           </div>
         </div>
         <div className="photo text-center ">
-          <img src="public/images/photo.png" alt />
+          <img src="images/photo.png" alt />
         </div>
       </section>
 
@@ -44,7 +44,7 @@ function Home() {
           <div className="about-left">
             <div className="about-image">
               <div className="about-overlay" />
-              <img src="public/images/photo.png" alt="About Image" />
+              <img src="images/photo.png" alt="About Image" />
             </div>
           </div>
           {/* RIGHT CONTENT */}
@@ -101,7 +101,7 @@ function Home() {
           <div className="projects-images">
             <div className="color">
               <a href="https://konicha.onrender.com/" target="_blank">
-              <img src="public/images/recipe.jpg" alt="" />
+              <img src="images/recipe.jpg" alt="" />
               </a>
             </div>
           </div>
@@ -195,7 +195,7 @@ function Home() {
           <div className="projects-images">
             <div className="color">
               <a href="https://animenova.onrender.com/" target="_blank">
-                <img src="public/images/animee.jpg" alt="" />
+                <img src="images/animee.jpg" alt="" />
               </a>
             </div>
           </div>
@@ -207,7 +207,7 @@ function Home() {
           <div className="projects-images">
             <div className="color">
              <a href="https://dailyexercise-84dh.onrender.com" target="_blank">
-               <img src="public/images/exercise.jpg" alt="" />
+               <img src="images/exercise.jpg" alt="" />
              </a>
             </div>
           </div>
@@ -295,7 +295,7 @@ The project also studies public reactions and how the event influences social, p
           <div className="projects-images">
             <div className="color">
              <a href="https://todaynews-f3rt.onrender.com/" target="_blank">
-               <img src="public/images/News.jpg" alt="" />
+               <img src="images/News.jpg" alt="" />
              </a>
             </div>
           </div>
